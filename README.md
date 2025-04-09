@@ -39,6 +39,6 @@ pip install pyqt5 pyserial
 
    
 ## How to Run
-1. **    ```
+```
 python interface_exercise.py
    ```
