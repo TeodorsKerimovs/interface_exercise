@@ -42,3 +42,5 @@ pip install pyqt5 pyserial
 ```
 python interface_exercise.py
    ```
+
+See demo video: https://youtu.be/X0cEFNA0opg
